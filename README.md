@@ -1,0 +1,2 @@
+# Hider
+hide text
